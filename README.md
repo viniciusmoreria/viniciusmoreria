@@ -5,7 +5,7 @@ I've been working with hybrid mobile development since 2019, primarily with Reac
 Get in touch :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmoreeira/)](https://www.linkedin.com/in/viniciusmoreeira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmoreeira@icloud.com)](mailto:viniciusmoreeira@icloud.comm)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmoreeira@icloud.com)](mailto:viniciusmoreeira@icloud.com)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusmoreeira&show_icons=true&theme=dark&hide=contribs,prs)
 
