@@ -6,3 +6,5 @@ Get in touch :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmoreeira/)](https://www.linkedin.com/in/viniciusmoreeira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmoreeira@icloud.com)](mailto:viniciusmoreeira@icloud.com)
+
+![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)
