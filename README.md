@@ -4,7 +4,5 @@ I've been working with hybrid mobile development since 2019, primarily with Reac
 
 Get in touch :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmoreeira/)](https://www.linkedin.com/in/viniciusmoreeira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmoreeira@icloud.com)](mailto:viniciusmoreeira@icloud.com)
-
-![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&colorA=000000&colorB=000000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmoreeira/)](https://www.linkedin.com/in/viniciusmoreeira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&colorA=000000&colorB=000000&logo=Gmail&logoColor=white&link=mailto:viniciusmoreeira@icloud.com)](mailto:viniciusmoreeira@icloud.com)
